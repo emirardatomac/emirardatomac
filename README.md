@@ -10,9 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <marquee behavior="scroll" direction="left">Hello, There! He is Emir Arda. Nice To meet you!</marquee>
-</p>
 
 - 🔭 I am currently working on improving my skills in Java.
 - 🌱 I am learning Python and Kotlin.
@@ -40,7 +37,7 @@
   </a>
 </p>
 
-### 📊 GitHub Statistics:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=emirardatomac&show_icons=true&locale=en" alt="emirardatomac" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=emirardatomac&" alt="emirardatomac" /></p>
