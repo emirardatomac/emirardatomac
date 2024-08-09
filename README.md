@@ -1,5 +1,4 @@
-<!-- Profile Banner -->
-![MasterHead](https://your-image-url-here)
+
 
 ### Hello, I'm Emir Arda Tomac! 👋
 
@@ -53,5 +52,8 @@
 <p align="center">
   <marquee behavior="scroll" direction="left">Hello, There! He is Emir Arda. Nice To meet you!</marquee>
 </p>
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
 
 <!-- Links and other project-related information can be added here -->
