@@ -48,5 +48,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirardatomac&show_icons=true&locale=en&layout=compact" alt="emirardatomac" /></p>
 
 <p align="center">
-  <img src="https://github.com/emirardatomac/emirardatomac/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/emirardatomac/emirardatomac/blob/master/dist/snake.svg" alt="snake"/>
 </p>
