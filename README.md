@@ -1,5 +1,3 @@
-
-
 ### Hello, I'm Emir Arda Tomac! 👋
 
 <p align="left"> 
@@ -13,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <marquee behavior="scroll" direction="left">Hello, There! He is Emir Arda. Nice To meet you!</marquee>
 </p>
 
 - 🔭 I am currently working on improving my skills in Java.
@@ -50,8 +48,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirardatomac&show_icons=true&locale=en&layout=compact" alt="emirardatomac" /></p>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left">Hello, There! He is Emir Arda. Nice To meet you!</marquee>
+  <img src="https://github.com/emirardatomac/emirardatomac/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
-             
-
-<!-- Links and other project-related information can be added here -->
