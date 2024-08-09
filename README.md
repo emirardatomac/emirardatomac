@@ -8,9 +8,13 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/yourtwitterhandle" target="blank">
-    <img src="https://img.shields.io/twitter/follow/yourtwitterhandle?logo=twitter&style=for-the-badge" alt="yourtwitterhandle" />
+  <a href="https://www.linkedin.com/in/emir-arda-toma%C3%A7-37004128a/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/yourusername/yourrepository/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 - 🔭 I am currently working on improving my skills in Java.
@@ -45,5 +49,9 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=emirardatomac&" alt="emirardatomac" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirardatomac&show_icons=true&locale=en&layout=compact" alt="emirardatomac" /></p>
+
+<p align="center">
+  <marquee behavior="scroll" direction="left">Hello, There! He is Emir Arda. Nice To meet you!</marquee>
+</p>
 
 <!-- Links and other project-related information can be added here -->
