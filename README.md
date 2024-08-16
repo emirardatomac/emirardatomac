@@ -10,9 +10,8 @@
   </a>
 </p>
 
-
 - 🔭 I am currently working on improving my skills in Java.
-- 🌱 I am learning Python and Kotlin.
+- 🌱 I am learning Python and Dart with Flutter.
 - 👨‍💻 You can find all my projects [here](https://github.com/emirardatomac?tab=repositories).
 - 💬 Feel free to ask me questions about Computer Engineering.
 - 📫 Reach me at emiraarda6@gmail.com
@@ -32,11 +31,13 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=emirardatomac&show_icons=true&locale=en" alt="emirardatomac" /></p>
 
