@@ -15,7 +15,7 @@
 - 👨‍💻 You can find all my projects [here](https://github.com/emirardatomac?tab=repositories).
 - 💬 Feel free to ask me questions about Computer Engineering.
 - 📫 Reach me at emiraarda6@gmail.com
-- 💻 I am studying Computer Engineering at Cumhuriyet University and Computer Programming at Istanbul University.
+- 💻 I am studying Computer Engineering
 
 ### 🛠 Technologies I Use:
 <p align="left">
